@@ -1,0 +1,218 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "titulo": "Bolo de Cenoura",
+      "ingredientes": [
+        "2 xícaras de cenoura ralada",
+        "1 xícara de açúcar",
+        "1/2 xícara de óleo",
+        "3 ovos",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "modoPreparo": "Bata no liquidificador a cenoura, o açúcar, o óleo e os ovos. Misture com os ingredientes secos e asse em forno pré-aquecido a 180°C por 40 minutos.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfpPOE5rF_ZxNAkTtLjLxgb1aOxd_cGi8Sg&s"
+    },
+    {
+      "id": 2,
+      "titulo": "Pão de Queijo",
+      "ingredientes": [
+        "250g de polvilho doce",
+        "100ml de leite",
+        "50ml de óleo",
+        "1 ovo",
+        "100g de queijo minas ralado",
+        "sal a gosto"
+      ],
+      "modoPreparo": "Misture todos os ingredientes até formar uma massa homogênea. Modele os pães e asse em forno pré-aquecido a 180°C por 20 minutos.",
+      "imagem": "https://www.receitas-sem-fronteiras.com/media/hehe-3_crop.jpg/rh/pao-de-queijo-3-ingredientes.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": [
+        "2 xícaras de açúcar",
+        "1 xícara de manteiga",
+        "4 ovos",
+        "2 xícaras de farinha de trigo",
+        "1 xícara de chocolate em pó",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "modoPreparo": "Bata o açúcar com a manteiga até obter um creme. Adicione os ovos, um a um, e misture bem. Incorpore os ingredientes secos e asse em forno pré-aquecido a 180°C por 50 minutos.",
+      "imagem": "https://recipesblob.oetker.com.br/assets/a81bc035eb7f407faaa2c93e04edaf78/750x910/bolo-de-aniversrio-de-chocolate.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Bife à Cavalo",
+      "ingredientes": [
+        "4 bifes de alcatra ou contra filé",
+        "4 ovos",
+        "sal e pimenta a gosto",
+        "óleo para fritar"
+      ],
+      "modoPreparo": "Tempere os bifes com sal e pimenta. Frite os bifes em uma frigideira com óleo quente. Em outra frigideira, frite os ovos. Sirva os bifes com os ovos por cima.",
+      "imagem": "https://www.comidaereceitas.com.br/wp-content/uploads/2011/03/bife_cavalo.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Lasanha de Carne Moída",
+      "ingredientes": [
+        "500g de carne moída",
+        "1 pacote de massa para lasanha",
+        "2 xícaras de molho de tomate",
+        "300g de queijo mussarela",
+        "200g de presunto",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "sal e temperos a gosto"
+      ],
+      "modoPreparo": "Refogue a carne com cebola, alho e molho de tomate. Monte em camadas alternando massa, carne, presunto e queijo. Leve ao forno a 200°C por 40 minutos.",
+      "imagem": "https://static.itdg.com.br/images/360-240/ec2a5e38702c60bf1ace0b5f1c8e9415/shutterstock-739787011.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Panqueca de Frango",
+      "ingredientes": [
+        "2 xícaras de leite",
+        "2 ovos",
+        "2 xícaras de farinha de trigo",
+        "1 peito de frango cozido e desfiado",
+        "1 xícara de molho de tomate",
+        "queijo ralado para gratinar"
+      ],
+      "modoPreparo": "Bata leite, ovos e farinha no liquidificador para fazer a massa. Recheie com frango desfiado e molho. Enrole, coloque em um refratário, cubra com molho e queijo e leve ao forno até gratinar.",
+      "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/4cbaabc235457a2dc97a1a76ff39c8ea_XL.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Escondidinho de Carne Seca",
+      "ingredientes": [
+        "500g de carne seca dessalgada e desfiada",
+        "1kg de mandioca cozida",
+        "1 xícara de leite",
+        "2 colheres de sopa de manteiga",
+        "300g de queijo mussarela"
+      ],
+      "modoPreparo": "Amasse a mandioca com leite e manteiga até virar um purê. Monte em camadas: purê, carne seca e queijo. Repita e finalize com queijo. Leve ao forno até dourar.",
+      "imagem": "https://i.panelinha.com.br/i1/bk-1162-escondidinho.webp"
+    },
+    {
+      "id": 8,
+      "titulo": "Moqueca de Peixe",
+      "ingredientes": [
+        "1kg de peixe em postas",
+        "1 pimentão verde",
+        "1 pimentão vermelho",
+        "2 tomates",
+        "1 cebola",
+        "200ml de leite de coco",
+        "azeite de dendê a gosto",
+        "coentro e sal a gosto"
+      ],
+      "modoPreparo": "Em uma panela, faça camadas de peixe, pimentão, tomate e cebola. Regue com leite de coco e azeite de dendê. Cozinhe por 30 minutos em fogo baixo e finalize com coentro.",
+      "imagem": "https://www.diadepeixe.com.br/extranet/thumbnail/crop/550x360/Receita/moqueca_de_tilapia_1688388658865.webp"
+    },
+    {
+      "id": 9,
+      "titulo": "Feijoada",
+      "ingredientes": [
+        "500g de feijão preto",
+        "200g de carne seca",
+        "200g de linguiça calabresa",
+        "150g de bacon",
+        "1 cebola picada",
+        "2 dentes de alho",
+        "sal e louro a gosto"
+      ],
+      "modoPreparo": "Cozinhe o feijão separado. Refogue as carnes com alho e cebola e junte ao feijão. Deixe ferver até engrossar o caldo. Sirva com arroz e couve refogada.",
+      "imagem": "https://i.panelinha.com.br/i1/bk-9097-39-panelinha-12-02-200635.webp"
+    },
+    {
+      "id": 10,
+      "titulo": "Macarronada à Bolonhesa",
+      "ingredientes": [
+        "500g de macarrão espaguete",
+        "400g de carne moída",
+        "2 xícaras de molho de tomate",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "sal e azeite a gosto"
+      ],
+      "modoPreparo": "Cozinhe o macarrão. Refogue a carne com alho, cebola e molho de tomate. Sirva a massa com o molho por cima e finalize com queijo ralado.",
+      "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/9e9e1351d6a763151a8613c1dd10d427_XL.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "Coxinha de Frango",
+      "ingredientes": [
+        "500g de peito de frango desfiado",
+        "2 xícaras de caldo de galinha",
+        "2 xícaras de farinha de trigo",
+        "2 colheres de sopa de manteiga",
+        "sal e temperos a gosto",
+        "farinha de rosca para empanar",
+        "óleo para fritar"
+      ],
+      "modoPreparo": "Faça a massa com caldo, manteiga e farinha. Modele as coxinhas recheando com frango. Passe na farinha de rosca e frite até dourar.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB13GJVlJ3mi2V1IbJEgJZo8LUMFJoaAPxQ&s"
+    },
+    {
+      "id": 12,
+      "titulo": "Strogonoff de Frango",
+      "ingredientes": [
+        "500g de peito de frango em cubos",
+        "1 lata de creme de leite",
+        "1 xícara de molho de tomate",
+        "1 cebola picada",
+        "2 colheres de sopa de ketchup",
+        "2 colheres de sopa de mostarda",
+        "sal a gosto"
+      ],
+      "modoPreparo": "Refogue o frango com a cebola. Adicione molho de tomate, ketchup, mostarda e creme de leite. Cozinhe por 10 minutos e sirva com arroz e batata palha.",
+      "imagem": "https://i0.wp.com/receitaspelomundo.com.br/wp-content/uploads/2024/06/receita-de-strogonoff-de-frango-receitas-pelo-mundo-960x960-1.jpg?fit=960%2C960&amp;ssl=1"
+    },
+    {
+      "id": 13,
+      "titulo": "Brigadeiro",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "chocolate granulado para enrolar"
+      ],
+      "modoPreparo": "Cozinhe leite condensado, chocolate em pó e manteiga até desgrudar do fundo da panela. Deixe esfriar, enrole e passe no granulado.",
+      "imagem": "https://static.itdg.com.br/images/360-240/a373f494abb2c3360b9966f5abe130e2/brigadeiro-.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "Pavê de Chocolate",
+      "ingredientes": [
+        "1 pacote de bolacha maisena",
+        "2 xícaras de leite",
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 lata de creme de leite",
+        "chocolate ralado para decorar"
+      ],
+      "modoPreparo": "Faça um creme com leite condensado, leite e chocolate em pó. Monte camadas de creme e bolacha. Finalize com creme de leite e chocolate ralado. Leve à geladeira por 2 horas.",
+      "imagem": "https://carlatataroreceitas.com.br/wp-content/uploads/2024/08/pave-de-chocolate-768x432.png"
+    },
+    {
+      "id": 15,
+      "titulo": "Torta de Frango",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1/2 xícara de óleo",
+        "2 ovos",
+        "1 xícara de leite",
+        "1 peito de frango cozido e desfiado",
+        "1/2 xícara de milho",
+        "1/2 xícara de ervilha",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "modoPreparo": "Bata os ingredientes da massa no liquidificador. Despeje metade em uma forma, adicione o recheio de frango, milho e ervilha, cubra com o restante da massa e asse a 180°C por 40 minutos.",
+      "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2020/11/Torta-de-frango-de-liquidificador.jpg"
+    }
+  ]
+}
