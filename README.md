@@ -8,6 +8,9 @@
 ## Como testar
 - CLone o repositório
 - Abra com VsCode
-- cd receitas
-- npm install
-- npm run dev
+- Abra o erminal Ctrl + '
+```bash
+cd receitas
+npm install
+npm run dev
+```
